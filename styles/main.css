@@ -1,0 +1,41 @@
+body{
+	background-color:#EFFBFB;
+}
+#container{
+	position:absolute;
+	top:30px;
+	left:650px;
+	/*border:2px solid black;*/
+	width:650px;
+	height:700px;
+}
+#room{
+	position:fixed;
+	width:500px;
+	top:450px;
+}
+#newspaper{
+	position:fixed;
+	left:75px;
+	top:10px;
+	width:400px;
+	pointer-events:none;
+}
+.avatar{
+	position:fixed;
+}
+#cici{
+	left:450px;
+	top:250px;
+	width:70px;
+}
+.place{
+	width:200px;
+	margin:5px;
+}
+.people{
+	height:100px;
+}
+.thing{
+	height:70px;
+}
